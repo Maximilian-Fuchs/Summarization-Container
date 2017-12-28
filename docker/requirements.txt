@@ -1,0 +1,16 @@
+setuptools
+BeautifulSoup==3.2.1
+click==6.7
+cssselect==1.0.1
+Django==1.11.8
+Flask==0.12.2
+image==1.5.16
+itsdangerous==0.24
+Jinja2==2.10
+lru-cache==0.2.3
+lxml==4.1.1
+MarkupSafe==1.0
+olefile==0.44
+Pillow==4.3.0
+pytz==2017.3
+Werkzeug==0.13
